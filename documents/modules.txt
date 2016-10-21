@@ -1,21 +1,22 @@
-# pygame.cdrom    ·ÃÎÊ¹âÇı
-# pygame.cursors  ¼ÓÔØ¹â±ê
-# pygame.display  ·ÃÎÊÏÔÊ¾Éè±¸
-# pygame.draw     »æÖÆĞÎ×´¡¢ÏßºÍµã
-# pygame.event    ¹ÜÀíÊÂ¼ş
-# pygame.font     Ê¹ÓÃ×ÖÌå
-# pygame.image    ¼ÓÔØºÍ´æ´¢Í¼Æ¬
-# pygame.joystick Ê¹ÓÃÓÎÏ·ÊÖ±ú»òÕßÀàËÆµÄ¶«Î÷
-# pygame.key      ¶ÁÈ¡¼üÅÌ°´¼ü
-# pygame.mixer    ÉùÒô
-# pygame.mouse    Êó±ê
-# pygame.movie    ²¥·ÅÊÓÆµ
-# pygame.music    ²¥·ÅÒôÆµ
-# pygame.overlay  ·ÃÎÊ¸ß¼¶ÊÓÆµµş¼Ó
-# pygame.rect     ¹ÜÀí¾ØĞÎÇøÓò
-# pygame.sndarray ²Ù×÷ÉùÒôÊı¾İ
-# pygame.sprite   ²Ù×÷ÒÆ¶¯Í¼Ïñ
-# pygame.surface   ¹ÜÀíÍ¼ÏñºÍÆÁÄ»
-# pygame.surfarray ¹ÜÀíµãÕóÍ¼ÏñÊı¾İ
-# pygame.time      ¹ÜÀíÊ±¼äºÍÖ¡ĞÅÏ¢
-# pygame.transform Ëõ·ÅºÍÒÆ¶¯Í¼Ïñ
+æ¨¡å—						ååŠŸèƒ½
+pygame.cdrom 			è®¿é—®å…‰é©±
+pygame.cursors 			åŠ è½½å…‰æ ‡
+pygame.display 			è®¿é—®æ˜¾ç¤ºè®¾å¤‡
+pygame.draw 			ç»˜åˆ¶å½¢çŠ¶ã€çº¿å’Œç‚¹
+pygame.event 			ç®¡ç†äº‹ä»¶
+pygame.font 			ä½¿ç”¨å­—ä½“
+pygame.image 			åŠ è½½å’Œå­˜å‚¨å›¾ç‰‡
+pygame.joystick 		ä½¿ç”¨æ¸¸æˆæ‰‹æŸ„æˆ–è€…ç±»ä¼¼çš„ä¸œè¥¿
+pygame.key 				è¯»å–é”®ç›˜æŒ‰é”®
+pygame.mixer 			å£°éŸ³
+pygame.mouse 			é¼ æ ‡
+pygame.movie 			æ’­æ”¾è§†é¢‘
+pygame.music 			æ’­æ”¾éŸ³é¢‘
+pygame.overlay 			è®¿é—®é«˜çº§è§†é¢‘å åŠ 
+pygame.rect 			ç®¡ç†çŸ©å½¢åŒºåŸŸ
+pygame.sndarray 		æ“ä½œå£°éŸ³æ•°æ®
+pygame.sprite 			æ“ä½œç§»åŠ¨å›¾åƒ
+pygame.surface 			ç®¡ç†å›¾åƒå’Œå±å¹•
+pygame.surfarray 		ç®¡ç†ç‚¹é˜µå›¾åƒæ•°æ®
+pygame.time 			ç®¡ç†æ—¶é—´å’Œå¸§ä¿¡æ¯
+pygame.transform 		ç¼©æ”¾å’Œç§»åŠ¨å›¾åƒ
